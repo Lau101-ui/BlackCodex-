@@ -46,3 +46,4 @@ Links inside the site are relative, so nothing else breaks.
 - Contact form opens WhatsApp and email with the message filled in
 - Terms, Privacy and 404 pages load; favicon shows in the browser tab
 - Paste the live link into WhatsApp and check the preview image shows
+
