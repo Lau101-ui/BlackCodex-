@@ -274,3 +274,7 @@ dialog [data-dialog-video]:empty { display: none; }
 /* Page titles */
 .page-title { font-size: clamp(3rem, 9vw, 6.5rem); }
 .prose .page-title { margin-bottom: 8px; }
+
+/* Logo in header and footer */
+.brand img { height: 40px; width: auto; }
+.foot .brand img { height: 44px; }

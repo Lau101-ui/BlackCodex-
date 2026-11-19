@@ -3,10 +3,10 @@
 Static site (plain HTML, CSS and JavaScript). No build step, no server, no database.
 
 ## Put it online (GitHub Pages)
-1. Create a public repo named `blackcodex`.
+1. Use the public repo `BlackCodex-`.
 2. Upload every file in this folder to the repo root (Add file, then Upload files). Commit.
 3. Settings, then Pages. Source: Deploy from a branch. Branch: `main`, folder `/ (root)`. Save.
-4. The site goes live at https://lau101-ui.github.io/blackcodex/ after a minute or two.
+4. The site goes live at https://lau101-ui.github.io/BlackCodex-/ after a minute or two.
 
 ## Replace before launch
 Everything outlined with a dashed amber border is a placeholder:
@@ -26,7 +26,7 @@ Only that address pattern is accepted.
 1. Buy the domain, then in repo Settings, Pages, enter it under Custom domain.
 2. Add the DNS records GitHub shows you, and turn on Enforce HTTPS.
 3. In every .html file, sitemap.xml and robots.txt, replace
-   `https://lau101-ui.github.io/blackcodex` with your domain (find and replace).
+   `https://lau101-ui.github.io/BlackCodex-` with your domain (find and replace).
 Links inside the site are relative, so nothing else breaks.
 
 ## Security notes
